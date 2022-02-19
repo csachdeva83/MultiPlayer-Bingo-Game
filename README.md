@@ -8,7 +8,7 @@ A game in which players mark off numbers on cards as the numbers are called rand
 
 ## ❓ About the Game
 
-This two-player online version of the game was built with [React](https://reactjs.org/), [Socket.IO](https://socket.io/), [WebRTC](https://webrtc.org/), [Express](https://expressjs.com/) and [Node](https://nodejs.org/en/). It currently supports two-players in each game. It also has text chat functionality to communicate with your opponent!
+This two-player online version of the game was built with [React](https://reactjs.org/), [Socket.IO](https://socket.io/), [WebRTC](https://webrtc.org/), [Express](https://expressjs.com/) and [Node](https://nodejs.org/en/). It currently supports two-players in each game.
 
 
 ## 🧐 How to Play?
