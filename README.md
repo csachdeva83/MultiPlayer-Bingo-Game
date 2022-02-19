@@ -1,7 +1,7 @@
 <h1 align="center">BINGO ONLINE</h1>
 <h2 align="center">Two player online game of BINGO</h2>
 
-<img src="screenshots/logo.jpeg" alt="Bingo Logo" width="33%" align="center" />
+<img src="screenshots/logo.jpg" alt="Bingo Logo" width="33%" align="center" />
 
 ## 🤔 What is Bingo?
 
