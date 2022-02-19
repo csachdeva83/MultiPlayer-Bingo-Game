@@ -1,6 +1,8 @@
 <h1 align="center">BINGO ONLINE</h1>
 <h2 align="center">Two player online game of BINGO</h2>
 
+<img src="screenshots/logo.jpeg" alt="Bingo Logo" width="33%" align="center" />
+
 ## 🤔 What is Bingo?
 
 A game in which players mark off numbers on cards as the numbers are called randomly between 1-25 by players, the winner being the first person to mark off 5 row/column/diagonal on card.
