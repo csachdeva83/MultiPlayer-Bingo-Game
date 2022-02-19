@@ -3,7 +3,7 @@
 
 ## 🤔 What is Bingo?
 
-A game in which players mark off numbers on cards as the numbers are drawn randomly between 1-25 by a caller, the winner being the first person to mark off all their numbers.
+A game in which players mark off numbers on cards as the numbers are called randomly between 1-25 by players, the winner being the first person to mark off 5 row/column/diagonal on card.
 
 
 ## ❓ About the Game
