@@ -19,6 +19,14 @@ This two-player online version of the game was built with [React](https://reactj
 
 ## 🎮 Screenshots
 
+<img src="screenshots/1.JPG" alt="Screenshot 1" width="75%" align="center" />
+<img src="screenshots/2.JPG" alt="Screenshot 2" width="75%" align="center" />
+<img src="screenshots/3.JPG" alt="Screenshot 3" width="75%" align="center" />
+<img src="screenshots/4.JPG" alt="Screenshot 3" width="75%" align="center" />
+<img src="screenshots/5.JPG" alt="Screenshot 3" width="75%" align="center" />
+<img src="screenshots/6.JPG" alt="Screenshot 3" width="75%" align="center" />
+<img src="screenshots/7.JPG" alt="Screenshot 3" width="75%" align="center" />
+
 ## 🏁 Getting Started (to run game locally)
 
 Follow the steps below, after cloning the repository:
